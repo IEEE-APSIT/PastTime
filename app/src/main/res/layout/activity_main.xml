@@ -28,7 +28,7 @@
             app:kKnobDrawableRotates="true"
             app:kStateMarkersWidth="0dp"
             app:kStateMarkersRelativeLength="0"
-            app:kIndicatorWidth="01dp"
+            app:kIndicatorWidth="0dp"
             app:kSwipe="vertical"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintHorizontal_bias="0"
